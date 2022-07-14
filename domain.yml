@@ -1,9 +1,9 @@
 version: "3.0"
 
 intents:
-  - easy to understand
-  - open ended
-  - structure
+  - Fee per user
+  - Number of users
+  - Number of months
 
 
 
