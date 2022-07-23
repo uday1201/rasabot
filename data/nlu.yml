@@ -28,3 +28,15 @@ nlu:
     - Warm up before going into the detailed questions
     - Start with some easier questions to help them relax
     - Prepare your questions beforehand
+
+- intent: Negative
+  examples: |
+    - testers
+    - nothing
+    - random
+    - coat
+    - earth
+    -place
+    - dynamo
+    - weird
+    - something
