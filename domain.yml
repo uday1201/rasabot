@@ -4,6 +4,7 @@ intents:
   - Fee per user
   - Number of users
   - Number of months
+  - negative
 
 
 
