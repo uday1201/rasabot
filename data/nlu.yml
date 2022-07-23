@@ -58,3 +58,30 @@ nlu:
     - Average client lifetime
     - Median customer lifetime
     - Ordinary customer lifetime
+
+- intent: negative
+  examples: |
+    - I want to order food
+    - What is 2 + 2?
+    - Who's the US President?
+    - Total revenue
+    - Recurring revenue
+    - Profits
+    - Annual recurring revenue
+    - Total income
+    - Margins
+    - Monthly recurring revenue
+    - Total income
+    - Gross sales
+    - Total assets
+    - Net sales
+    - Operating income
+    - Total expenses
+    - Net income
+    - Sales revenue
+    - Revenue growth
+    - 12-monthly recurrent earnings
+    - random
+    - out of scope
+    - test
+    - something
